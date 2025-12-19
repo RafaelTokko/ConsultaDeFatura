@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="ProcessamentoDados/ProcessamentoDados.csproj" />
+</Solution>
